@@ -1,0 +1,17 @@
+import plato from './plato'
+import venta from './venta'
+import ordenActiva from './ordenActiva'
+import gasto from './gasto'
+import mesero from './mesero'
+import seguridad from './seguridad'
+import categoria from './categoria';
+
+export const schemaTypes = [
+  categoria,
+  plato,
+  venta,
+  ordenActiva,
+  gasto,
+  mesero,
+  seguridad,
+]
