@@ -1,0 +1,107 @@
+{"_type": "plato", "nombre": "Lumpias (UNIDAD)", "precio": 4000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_entradas"}}
+{"_type": "plato", "nombre": "Agridulce de pollo (UNIDAD)", "precio": 2500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_entradas"}}
+{"_type": "plato", "nombre": "Menú Personal (Arroz, Pollo, Papas, Salsa)", "precio": 14000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_personal"}}
+{"_type": "plato", "nombre": "Pollo frito con papas (1/4 Cuarto)", "precio": 9000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_pollo"}}
+{"_type": "plato", "nombre": "Pollo frito con papas (1/2 Mediana)", "precio": 18500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_pollo"}}
+{"_type": "plato", "nombre": "Pollo frito con papas (Grande)", "precio": 35000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_pollo"}}
+{"_type": "plato", "nombre": "Pollo Mixto (Mediana)", "precio": 40000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_pollo"}}
+{"_type": "plato", "nombre": "Pollo Mixto (Grande)", "precio": 50000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_pollo"}}
+{"_type": "plato", "nombre": "Sopa china", "precio": 18000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_sopas"}}
+{"_type": "plato", "nombre": "Crema de camarón", "precio": 24500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_sopas"}}
+{"_type": "plato", "nombre": "Crema de pollo", "precio": 20500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_sopas"}}
+{"_type": "plato", "nombre": "1/2 Porción de papas", "precio": 6000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_porciones"}}
+{"_type": "plato", "nombre": "Porción de Papas", "precio": 11000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_porciones"}}
+{"_type": "plato", "nombre": "Porción de camarón", "precio": 24500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_porciones"}}
+{"_type": "plato", "nombre": "Porción de costilla y papa", "precio": 27000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_porciones"}}
+{"_type": "plato", "nombre": "Porción Huevos de codorniz (10)", "precio": 5000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_porciones"}}
+{"_type": "plato", "nombre": "Combo 1: 1/2 Pollo y Papa + Arroz Oriental Grande", "precio": 54000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combos"}}
+{"_type": "plato", "nombre": "Combo 2: 1 Pollo y Papa + Arroz Oriental Grande", "precio": 65000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combos"}}
+{"_type": "plato", "nombre": "Combo 3: 1/2 Pollo + Arroz y Chop Suey Grande", "precio": 62000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combos"}}
+{"_type": "plato", "nombre": "Combo 4: 1 Pollo + Arroz y Chop Suey Grande", "precio": 70000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combos"}}
+{"_type": "plato", "nombre": "Combo 5: 1/2 Pollo + Arroz y Espaguetis Grande", "precio": 62000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combos"}}
+{"_type": "plato", "nombre": "Combo 6: 1 Pollo + Arroz y Espaguetis Grande", "precio": 70000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combos"}}
+{"_type": "plato", "nombre": "Combo 7: 1/2 Pollo + Arroz y Agridulce Grande", "precio": 62000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combos"}}
+{"_type": "plato", "nombre": "Combo 8: 1 Pollo + Arroz y Agridulce Grande", "precio": 70000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combos"}}
+{"_type": "plato", "nombre": "9. Arroz Oriental (Mini)", "precio": 23500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "9. Arroz Oriental (Mediana)", "precio": 36000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "9. Arroz Oriental (Grande)", "precio": 46000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "10. Arroz Especial (Mediana)", "precio": 39000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "10. Arroz Especial (Grande)", "precio": 49000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "11. Arroz Valenciana (Mini)", "precio": 25000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "11. Arroz Valenciana (Mediana)", "precio": 36500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "11. Arroz Valenciana (Grande)", "precio": 48000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "12. Arroz Paisa (Mini)", "precio": 29000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "12. Arroz Paisa (Mediana)", "precio": 42500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "12. Arroz Paisa (Grande)", "precio": 55000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "13. Arroz Especial Lóng (Mediana)", "precio": 40000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "13. Arroz Especial Lóng (Grande)", "precio": 51500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "14. Arroz con Pollo y Camarones (Mini)", "precio": 27000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "14. Arroz con Pollo y Camarones (Mediana)", "precio": 39000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "14. Arroz con Pollo y Camarones (Grande)", "precio": 51000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "15. Arroz con Camarones (Mini)", "precio": 28000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "15. Arroz con Camarones (Mediana)", "precio": 41500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "15. Arroz con Camarones (Grande)", "precio": 54000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_arroz"}}
+{"_type": "plato", "nombre": "16. Chop Suey Camarones (Mini)", "precio": 27000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "16. Chop Suey Camarones (Mediana)", "precio": 41000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "16. Chop Suey Camarones (Grande)", "precio": 53000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "17. Chop Suey Oriental (Mini)", "precio": 23500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "17. Chop Suey Oriental (Mediana)", "precio": 36000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "17. Chop Suey Oriental (Grande)", "precio": 45000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "18. Chop Suey Pollo y Camarones (Mini)", "precio": 27000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "18. Chop Suey Pollo y Camarones (Mediana)", "precio": 39000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "18. Chop Suey Pollo y Camarones (Grande)", "precio": 51000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_chopsuey"}}
+{"_type": "plato", "nombre": "19. Tomtan (Arroz, Chop Suey, Agridulce) Mini", "precio": 29000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "19. Tomtan (Arroz, Chop Suey, Agridulce) Mediana", "precio": 46000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "19. Tomtan (Arroz, Chop Suey, Agridulce) Grande", "precio": 60000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "20. Arroz Chino y Chop Suey (Mini)", "precio": 25000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "20. Arroz Chino y Chop Suey (Mediana)", "precio": 40000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "20. Arroz Chino y Chop Suey (Grande)", "precio": 52000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "21. Arroz Chino y Agridulce (Mini)", "precio": 25000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "21. Arroz Chino y Agridulce (Mediana)", "precio": 40000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "21. Arroz Chino y Agridulce (Grande)", "precio": 52000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "22. Arroz Chino y Espaguetis (Mini)", "precio": 25000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "22. Arroz Chino y Espaguetis (Mediana)", "precio": 40000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "22. Arroz Chino y Espaguetis (Grande)", "precio": 52000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "23. Arroz Chino y Chop Suey Pollo/Camarón (Mediana)", "precio": 41000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "23. Arroz Chino y Chop Suey Pollo/Camarón (Grande)", "precio": 54000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "24. Arroz Chino y Espaguetis Pollo/Camarón (Mediana)", "precio": 41000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "24. Arroz Chino y Espaguetis Pollo/Camarón (Grande)", "precio": 55000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "25. Arroz Chino con Costilla Ahumada (Mini)", "precio": 27000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "25. Arroz Chino con Costilla Ahumada (Mediana)", "precio": 48000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "25. Arroz Chino con Costilla Ahumada (Grande)", "precio": 68000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_combinados"}}
+{"_type": "plato", "nombre": "26. Espaguetis Oriental (Mini)", "precio": 23500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "26. Espaguetis Oriental (Mediana)", "precio": 36000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "26. Espaguetis Oriental (Grande)", "precio": 45000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "27. Espaguetis con Camarones (Mini)", "precio": 27000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "27. Espaguetis con Camarones (Mediana)", "precio": 41000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "27. Espaguetis con Camarones (Grande)", "precio": 53000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "28. Espaguetis Pollo y Camarón (Mini)", "precio": 27000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "28. Espaguetis Pollo y Camarón (Mediana)", "precio": 39000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "28. Espaguetis Pollo y Camarón (Grande)", "precio": 50000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_espaguetis"}}
+{"_type": "plato", "nombre": "29. Tortilla China (Oriental) Mini", "precio": 28000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "29. Tortilla China (Oriental) Mediana", "precio": 42000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "29. Tortilla China (Oriental) Grande", "precio": 54000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "30. Tortilla con Pollo (Mini)", "precio": 26000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "30. Tortilla con Pollo (Mediana)", "precio": 42000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "30. Tortilla con Pollo (Grande)", "precio": 54000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "31. Tortilla con Camarones (Mini)", "precio": 30500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "31. Tortilla con Camarones (Mediana)", "precio": 46000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "31. Tortilla con Camarones (Grande)", "precio": 57000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "32. Tortilla con Pollo y Camarones (Mini)", "precio": 28500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "32. Tortilla con Pollo y Camarones (Mediana)", "precio": 44000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "32. Tortilla con Pollo y Camarones (Grande)", "precio": 54000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_tortilla"}}
+{"_type": "plato", "nombre": "33. Lo Mein (Camarón, Pollo) Mediana", "precio": 37000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_lomein"}}
+{"_type": "plato", "nombre": "33. Lo Mein (Camarón, Pollo) Grande", "precio": 48000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_lomein"}}
+{"_type": "plato", "nombre": "34. Lo Mein (Pollo, Carne, Camarón) Mediana", "precio": 35000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_lomein"}}
+{"_type": "plato", "nombre": "34. Lo Mein (Pollo, Carne, Camarón) Grande", "precio": 46000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_lomein"}}
+{"_type": "plato", "nombre": "Jugo Hit 500Ml", "precio": 3700, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Cuatro- Sprite-Ginger 400 ML", "precio": 3500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Coca Cola 400 Ml", "precio": 4000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Jugo Hit Litro", "precio": 5500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Coca Cola, Ginger y Cuatro 1.5L", "precio": 9000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Coca Cola 2.25L", "precio": 11000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Botella Agua", "precio": 3000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Botella Agua con gas", "precio": 3500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Cola y Pola / Poker / Aguila Lata", "precio": 4000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Club Colombia Dorada", "precio": 5000, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}
+{"_type": "plato", "nombre": "Cerveza Águila Light Lata", "precio": 4500, "disponible": true, "categoria": {"_type": "reference", "_ref": "cat_bebidas"}}

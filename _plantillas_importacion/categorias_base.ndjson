@@ -1,0 +1,13 @@
+{"_type": "categoria", "_id": "cat_entradas", "titulo": "🥟 Entradas", "orden": 1, "slug": {"_type": "slug", "current": "entradas"}}
+{"_type": "categoria", "_id": "cat_personal", "titulo": "🍱 Menú Personal", "orden": 2, "slug": {"_type": "slug", "current": "personal"}}
+{"_type": "categoria", "_id": "cat_pollo", "titulo": "🍗 Pollo Frito", "orden": 3, "slug": {"_type": "slug", "current": "pollo-frito"}}
+{"_type": "categoria", "_id": "cat_sopas", "titulo": "🥣 Sopas y Cremas", "orden": 4, "slug": {"_type": "slug", "current": "sopas-cremas"}}
+{"_type": "categoria", "_id": "cat_porciones", "titulo": "🍟 Porciones", "orden": 5, "slug": {"_type": "slug", "current": "porciones"}}
+{"_type": "categoria", "_id": "cat_combos", "titulo": "🎒 Combos Familiares", "orden": 6, "slug": {"_type": "slug", "current": "combos"}}
+{"_type": "categoria", "_id": "cat_arroz", "titulo": "🍚 Arroces Especiales", "orden": 7, "slug": {"_type": "slug", "current": "arroces"}}
+{"_type": "categoria", "_id": "cat_chopsuey", "titulo": "🥢 Chop Suey", "orden": 8, "slug": {"_type": "slug", "current": "chop-suey"}}
+{"_type": "categoria", "_id": "cat_combinados", "titulo": "🍱 Combinados Lóng", "orden": 9, "slug": {"_type": "slug", "current": "combinados"}}
+{"_type": "categoria", "_id": "cat_espaguetis", "titulo": "🍝 Espaguetis", "orden": 10, "slug": {"_type": "slug", "current": "espaguetis"}}
+{"_type": "categoria", "_id": "cat_tortilla", "titulo": "🍳 Tortillas Chinas", "orden": 11, "slug": {"_type": "slug", "current": "tortillas"}}
+{"_type": "categoria", "_id": "cat_lomein", "titulo": "🍜 Lo Mein", "orden": 12, "slug": {"_type": "slug", "current": "lo-mein"}}
+{"_type": "categoria", "_id": "cat_bebidas", "titulo": "🥤 Bebidas y Cervezas", "orden": 13, "slug": {"_type": "slug", "current": "bebidas"}}
