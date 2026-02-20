@@ -4,7 +4,8 @@ import ordenActiva from './ordenActiva'
 import gasto from './gasto'
 import mesero from './mesero'
 import seguridad from './seguridad'
-import categoria from './categoria';
+import categoria from './categoria'
+import inventario from './inventario';
 
 export const schemaTypes = [
   categoria,
@@ -14,4 +15,5 @@ export const schemaTypes = [
   gasto,
   mesero,
   seguridad,
+  inventario,
 ]
