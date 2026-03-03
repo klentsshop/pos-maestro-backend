@@ -60,6 +60,13 @@ export default {
       initialValue: 1,
       hidden: ({ document }) => !document?.controlaInventario,
       description: '¿Cuántas unidades o kg descuenta cada venta?'
+    },
+    {
+    name: 'totalVentas',
+      title: 'Popularidad (Ventas Totales)',
+      type: 'number',
+      initialValue: 0,
+      description: 'Este número aumenta automáticamente con cada venta y define el orden en el POS'
     }
   ],
   preview: {
